@@ -61,7 +61,7 @@ const products = [
 ]
 
 function App() {
-  const whatsappNumber = "573112329580"
+  const whatsappNumber = "57312345678"
 
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
     "Hola, estoy interesado en los productos de Incullano S.A.S."
